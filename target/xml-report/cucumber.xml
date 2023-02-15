@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.886">
+    <testcase classname="US_001 NetguruTask" name="Register a user" time="13.614">
+        <system-out>
+            <![CDATA[Given user is in medunna web page...........................................passed
+And user clicks the registration page.......................................passed
+And user enters valid SSN "null"............................................passed
+And user enters firstName "null"............................................passed
+And user enters lastName "null".............................................passed
+And user enters userName "null".............................................passed
+And user enters email "null"................................................passed
+And user enters password "null".............................................passed
+And user enters second password "null"......................................passed
+And user clicks the register button.........................................passed
+And user verifies the success message as "Registration Saved"...............passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
